@@ -1,1 +1,4 @@
 a small project that i've done while taking the digital systems and computer structures
+this code can multiply 2 numbers up to 32 bits each and perform the mathematical power operation
+
+there is also the accelerated version where it checks and bypasses "0" cases

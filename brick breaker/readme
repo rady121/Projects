@@ -1,4 +1,4 @@
-this game was created as a part of the Lab1 project, a fully functioning "brick breaker" game.
+This game was created as a part of the Lab1 project, a fully functioning "brick breaker" game written in system verilog and burned onto an FPGA based board.
 A lot of work has been put into this project, the game was polished and overdid its purpose.
-the game includes 3 levels (1 was requested), powerups, interactive sound effects and scoring algorithm.
-test available at : 
+the game includes 3 levels (1 was requested), powerups which were especially challenging to code but we managed to, interactive sound effects and scoring algorithm.
+game showcase : https://www.youtube.com/watch?v=qgYFLhsBjvU

@@ -1,0 +1,8 @@
+this certificate was given to me upon finishing participation in a hackathon that was sponsord by more than 10 Hi-tech companies.
+in order to encourage student to integrate and learn about machine learning and how it can ease problem solutions and be implemented
+in system verilog.
+unfortunately i don't have the files we worked on anymore but the project's purpose was to accelerate a process that "reads" the number displayed as a photo from a boolean matrix. aka image processing.
+we succeeded to accelerate the process by ignoring zeros in the input matrix as well as introducing a fast multiplier that ignores zeros in the register itself therefore saves thousands of useless 
+matrix multiplications that are done by the neural network.
+in addition to working on a machine that's size is the same as the matrix so that in each cycle it computes for a whole neural network matrix.
+our changes succeeded to lower the number of cycles used to finish the process and maintain the accuracy of the expectation.
